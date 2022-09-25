@@ -10,4 +10,6 @@
 - Find the K-Sum of an Array : https://leetcode.com/problems/find-the-k-sum-of-an-array/
 
 
-> Minimum Hours of Training to Win a Competition  - Easy
+
+
+### Minimum Hours of Training to Win a Competition  - Easy
