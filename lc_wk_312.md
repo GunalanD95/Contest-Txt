@@ -129,6 +129,7 @@ code :
 approach :
    - create a monatonic prefix and suffix array , check non increasing count of each index 
    - then loop through n again , check for each index if suffix[i] >= k and prefix[i] >= k:
+   - At every index we want to know if the number of descending prefix elements >= k and number of ascending suffix elements >= k. So we preprocess this info and use it to find the correct indices.
 
 ```
 
